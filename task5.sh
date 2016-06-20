@@ -32,6 +32,7 @@ do
 		break
 	else
 		echo "error"
+		exit 1
 	fi
 
 
